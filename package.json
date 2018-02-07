@@ -14,7 +14,7 @@
     "gdax": "github:coinbase/gdax-node",
     "isomorphic-fetch": "^2.2.1",
     "memory-cache": "^0.2.0",
-    "pg": "^7.4.0",
+    "pg": "7.4.1",
     "socket.io": "^2.0.4",
     "web3": "^1.0.0-beta.26",
     "ws": "^3.3.3"
