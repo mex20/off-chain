@@ -5,7 +5,7 @@ const TIER_REACHED = 'TIER_REACHED'
 const TOTAL_DONATION_VALUE = 'TOTAL_DONATION_VALUE'
 
 module.exports = (http) => {
-  const io = require('socket.io')(http)
+  const io = require('socket.io')(https)
 
   io.origins('*:*')
 
